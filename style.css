@@ -1,0 +1,25 @@
+html {
+    background: url('https://i.pinimg.com/736x/59/d3/bf/59d3bf5be3ddcd70edc773b9a815c52c.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+    font-family: 'League Spartan', sans-serif;
+    margin: 10;
+}
+
+top {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+h1 {
+    color: #2980B9;
+}
